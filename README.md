@@ -11,3 +11,5 @@ Here is how to adjust the website to your needs.
 4. Enable GitHub Pages, choose branch `output`
 5. On the repository's landing page, add a link to repo's pages
 6. Wait for GitHub Actions to finish and check the result 
+
+Finally, it works!
